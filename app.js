@@ -2,7 +2,7 @@
  * Created by Nguyen Cong Thanh on 2016/10/21.
  */
 (function () {
-    'use strict'
+    'use strict';
 
     angular.module('MsgApp',[])
         .controller('MsgController',MsgController);
